@@ -9,9 +9,7 @@ const Header = () => {
   const router = useRouter();
 
   const { user } = useUser();
-  useEffect(() => {
-    console.log(user);
-  }, [user]);
+  useEffect(() => {}, [user]);
   return (
     <div className="ml-64 p-6 border-b flex items-center justify-between">
       <SearchBar />
