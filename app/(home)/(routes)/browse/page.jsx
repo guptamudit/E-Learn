@@ -22,7 +22,7 @@ const Browse = () => {
   return (
     <div>
       <Category />
-      <CourseList />
+      {courses ? <CourseList courses={courses} /> : null}
     </div>
   );
 };
