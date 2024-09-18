@@ -27,7 +27,19 @@ const CoursePreview = ({ params }) => {
             <VideoPlayer videoUrl={courseDetail.youtubeUrl} />
             <Details courseDetail={courseDetail} />
           </div>
-          <div>Enroll Option</div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla,
+            fugiat. Hic doloremque, eius eos magnam atque, veritatis at
+            necessitatibus omnis deleniti temporibus, repellendus unde ipsum
+            debitis consequatur. Consequuntur reprehenderit unde iure tempore!
+            Explicabo inventore, corrupti eius consequuntur quod debitis, earum
+            porro officiis, dolores illo blanditiis tempora corporis. Optio,
+            impedit inventore aperiam voluptates doloremque ad sapiente aliquid
+            amet nulla, nemo quasi. Dolor tempore nihil reprehenderit deserunt
+            magni excepturi, eius ex? Et, ea nobis. Voluptatem necessitatibus
+            recusandae velit corporis culpa, eius expedita voluptate excepturi
+            quos cupiditate voluptas ipsum. Aut, non iure.
+          </div>
         </div>
       </div>
     </div>
